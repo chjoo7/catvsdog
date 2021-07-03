@@ -1,3 +1,4 @@
-train.tar.gz
-valid.tar.gz
-test.tar.gz
+
+
+# ignore *.tar.gz
+*.tar.gz
